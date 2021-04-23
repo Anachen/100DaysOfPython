@@ -16,6 +16,7 @@ plt.hist(some_data,5)
 plt.show()
 plt.clf()
 #LABELS and customisations
+
 plt.plot(x_data,y_data,c=represents_color,alpha=0-1)
 plt.xlabel('x label name')
 plt.ylabel('y label name')
@@ -27,12 +28,10 @@ plt.grid(True)
 
 #DAY3
 #dictionaries pratcise
-dict = {
-  'id' = 0,
-  'user' = 'anonymus',
-  'life' = 100,
-  'class' = 'wizzard',
-  'level' = 1
+dict = {'id': 0,
+'user':'anonymus',
+'life': 100,
+'class': 'wizzard',
+'level': 1
 }
-
 

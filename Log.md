@@ -3,7 +3,8 @@ Repo created.
 Doing tests, assesment.
 Starting Data Science
 matpotlib
-Complete Datacamp Intermediate Python 32% of Chapter 1
-
 doing pyton exercises in exercises.py
-
+04/22/2021:
+Practice online
+04/23/2021:
+Practice online
